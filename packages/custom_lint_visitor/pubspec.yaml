@@ -5,6 +5,8 @@ repository: https://github.com/invertase/dart_custom_lint
 
 environment:
   sdk: ^3.9.0
+resolution: workspace
+
 
 
 dependencies:
